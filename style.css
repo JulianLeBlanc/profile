@@ -1,0 +1,120 @@
+h1 {
+  font-family: 'Cinzel', serif;
+  color:rgba(34, 96, 168, 0.973);
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+body {
+  font-family: 'Cinzel', serif;
+  color: rgb(94, 51, 51);
+  background-color: rgba(204, 232, 233, 0.589);
+  font-size: 22px;
+  font-weight: 650;
+}
+
+a {
+  color:rgb(207, 20, 114);
+
+
+}
+
+h2 {
+  color:rgba(34, 96, 168, 0.973);
+
+
+}
+
+/* #personal-picture {
+ border:100px
+ background-color:rgba(116, 194, 197, 0.589)
+
+} */
+
+.img-circle {
+  text-align: center;
+  border-radius: 50%;
+  text-align: center;
+  border: 23px;
+  border-color: blueviolet;
+
+}
+
+.card-white {
+  background: rgba(116, 194, 197, 0.589);
+  padding: 30px;
+  margin-bottom: 18px;
+  border: 3px solid lightgrey;
+  border-radius: 10%
+
+}
+
+#labrador{
+  padding: 18px;
+  border: 1px dashed yellow;
+  background-color: rgba(241, 243, 112, 0.74);
+  border-radius: 10%
+  text-align center;
+}
+
+.card-yellow{
+text-align: center;
+padding: 20px;
+margin: 20px;
+border-radius: 15%;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  font-family: 'Cinzel', serif;
+  color:rgba(34, 96, 168, 0.973);
+  text-align: center;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 10px 44px 10px 25px;
+  width: 18px;
+  text-align: center;
+  background-color: ;
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+.h3 {
+  font-family: 'Cinzel', serif;
+font-family: 'Poller One', cursive;
+}
+
+#firma {
+  font-family: 'Cinzel', serif;
+font-family: 'Poller One', cursive;
+font-family: 'Qwitcher Grypen', cursive;
+font-size: 66px;
+color: black;
+text-align:right;
+transform: rotate(14deg);
+}
+
+p {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
